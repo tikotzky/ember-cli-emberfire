@@ -1,3 +1,9 @@
+# This addon is Deprecated
+You can now use emberfire directly with ember cli without the need for this addon.  
+See https://github.com/firebase/emberfire#installing-emberfire-with-the-ember-cli
+
+---
+
 ## ember-cli-emberfire
 
 This addon that adds [`emberFire`](https://github.com/firebase/emberFire) to the generated Ember CLI output (in `vendor.js`).
